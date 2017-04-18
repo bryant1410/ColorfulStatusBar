@@ -19,7 +19,7 @@ StatusBarCompat.compat(this, 0xFFFF0000);
 
 ## 效果图
 
-###默认效果
+### 默认效果
 
 * 4.4
 
@@ -35,7 +35,7 @@ StatusBarCompat.compat(this, 0xFFFF0000);
 
 
 
-###指定颜色
+### 指定颜色
 
 
 * 4.4
